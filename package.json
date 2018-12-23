@@ -1,0 +1,31 @@
+{
+  "name": "iacr-telegram-bot",
+  "version": "0.1.0",
+  "description": "A simple Telegram for IACR papers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiep/iacr-telegram-bot.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "iacr",
+    "cryptography"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiep/iacr-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/jiep/iacr-telegram-bot#readme",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "hoek": "^6.1.2",
+    "osmosis": "^1.1.8",
+    "telegraf": "^3.25.5"
+  }
+}
